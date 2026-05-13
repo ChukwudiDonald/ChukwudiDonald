@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Chukwudi 👋
 
-<!--
-**ChukwudiDonald/ChukwudiDonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th Year Computer Science Student @ University of Windsor
 
-Here are some ideas to get you started:
+🔬 Research Assistant @ eMinds Lab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Interested in AI, Bioinformatics, Sensors, and Machine Learning
+
+💻 Skills:
+- Python
+- C++
+- Java
+- React
+- FastAPI
+- REST APIs
+- OpenCV
+
+🚀 Projects:
+- Hotel AI Chatbot (RAG + LLM)
+- PySerialView
+- Produce Freshness Detection Research
