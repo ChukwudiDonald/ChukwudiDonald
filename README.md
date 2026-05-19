@@ -56,20 +56,3 @@ Exploring DNA foundation models and multimodal reasoning.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChukwudiDonald&show_icons=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChukwudiDonald&layout=compact"/>
-
-</p>
-
----
-
-<div align="center">
-
-_"Building AI systems that connect research with real-world impact."_
-
-</div>
